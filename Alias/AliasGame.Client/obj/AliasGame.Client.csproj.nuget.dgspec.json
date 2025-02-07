@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Client\\AliasGame.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Client\\AliasGame.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Client\\AliasGame.Client.csproj",
+        "projectName": "AliasGame.Client",
+        "projectPath": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Client\\AliasGame.Client.csproj",
+        "packagesPath": "C:\\Users\\bulat-laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bulat-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
