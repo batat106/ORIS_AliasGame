@@ -55,26 +55,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bulat-laptop\\.nuget\\packages\\": {}
+    "C:\\Users\\bulat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Server\\AliasGame.Server.csproj",
+      "projectUniqueName": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Server\\AliasGame.Server.csproj",
       "projectName": "AliasGame.Server",
-      "projectPath": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Server\\AliasGame.Server.csproj",
-      "packagesPath": "C:\\Users\\bulat-laptop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bulat-laptop\\Downloads\\Alias_basic\\Alias\\AliasGame.Server\\obj\\",
+      "projectPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Server\\AliasGame.Server.csproj",
+      "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\bulat-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -120,8 +118,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

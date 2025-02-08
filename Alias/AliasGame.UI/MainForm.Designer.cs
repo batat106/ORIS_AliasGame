@@ -40,8 +40,12 @@ partial class MainForm
         this.btnStart = new Button();
         this.btnCorrect = new Button();
         this.btnIncorrect = new Button();
+        this.AcceptButton = btnJoin;
 
         // Настройка элементов
+        txtNickname.MaxLength = 20;
+        txtNickname.PlaceholderText = "Введите ваше имя";
+        
         txtNickname.Location = new System.Drawing.Point(20, 20);
         txtNickname.Size = new System.Drawing.Size(150, 20);
 

@@ -32,3 +32,55 @@ C:\Users\bulat-laptop\Downloads\Alias_basic\Alias\AliasGame.Server\obj\Debug\net
 C:\Users\bulat-laptop\Downloads\Alias_basic\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.pdb
 C:\Users\bulat-laptop\Downloads\Alias_basic\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.genruntimeconfig.cache
 C:\Users\bulat-laptop\Downloads\Alias_basic\Alias\AliasGame.Server\obj\Debug\net9.0\ref\AliasGame.Server.dll
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.exe
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.deps.json
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.runtimeconfig.json
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.AssemblyReference.cache
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfoInputs.cache
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfo.cs
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.CoreCompileInputs.cache
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.sourcelink.json
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGam.54CF5433.Up2Date
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\refint\AliasGame.Server.dll
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.genruntimeconfig.cache
+C:\Users\bulat-laptop\ORIS_AliasGame\Alias\AliasGame.Server\obj\Debug\net9.0\ref\AliasGame.Server.dll
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.exe
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.deps.json
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.runtimeconfig.json
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfoInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfo.cs
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGam.54CF5433.Up2Date
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\refint\AliasGame.Server.dll
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.genruntimeconfig.cache
+C:\Users\bulat\Downloads\Telegram Desktop\Alias\Alias\AliasGame.Server\obj\Debug\net9.0\ref\AliasGame.Server.dll
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.exe
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.deps.json
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.runtimeconfig.json
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat\Downloads\alias\AliasGame.Server\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.AssemblyReference.cache
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfoInputs.cache
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.AssemblyInfo.cs
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.csproj.CoreCompileInputs.cache
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGam.54CF5433.Up2Date
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.dll
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\refint\AliasGame.Server.dll
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.pdb
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\AliasGame.Server.genruntimeconfig.cache
+C:\Users\bulat\Downloads\alias\AliasGame.Server\obj\Debug\net9.0\ref\AliasGame.Server.dll
