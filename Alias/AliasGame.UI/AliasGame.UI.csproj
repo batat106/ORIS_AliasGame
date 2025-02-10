@@ -16,6 +16,18 @@
       <Compile Update="MainForm.cs">
         <SubType>Form</SubType>
       </Compile>
+      <Compile Update="Models\GameCommands.cs">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Compile>
+      <Compile Update="Models\GameState.cs">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Compile>
+      <Compile Update="Program.cs">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Compile>
+      <Compile Update="MainForm.Designer.cs">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Compile>
     </ItemGroup>
 
     <ItemGroup>

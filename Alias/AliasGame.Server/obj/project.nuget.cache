@@ -1,17 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nLdkdFtF0zc=",
+  "dgSpecHash": "LDSMfoLeqaI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Server\\AliasGame.Server.csproj",
+  "projectFilePath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Server\\AliasGame.Server.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\bulat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\bulat-laptop\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  "logs": []
 }

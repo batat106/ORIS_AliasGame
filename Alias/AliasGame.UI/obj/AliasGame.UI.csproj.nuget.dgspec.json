@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.UI\\AliasGame.UI.csproj": {}
+    "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.UI\\AliasGame.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\AliasGame.Client.csproj": {
+    "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\AliasGame.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\AliasGame.Client.csproj",
+        "projectUniqueName": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\AliasGame.Client.csproj",
         "projectName": "AliasGame.Client",
-        "projectPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\AliasGame.Client.csproj",
-        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\obj\\",
+        "projectPath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\AliasGame.Client.csproj",
+        "packagesPath": "C:\\Users\\bulat-laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bulat-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,34 +61,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.UI\\AliasGame.UI.csproj": {
+    "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.UI\\AliasGame.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.UI\\AliasGame.UI.csproj",
+        "projectUniqueName": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.UI\\AliasGame.UI.csproj",
         "projectName": "AliasGame.UI",
-        "projectPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.UI\\AliasGame.UI.csproj",
-        "packagesPath": "C:\\Users\\bulat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.UI\\obj\\",
+        "projectPath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.UI\\AliasGame.UI.csproj",
+        "packagesPath": "C:\\Users\\bulat-laptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bulat\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\bulat-laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\AliasGame.Client.csproj": {
-                "projectPath": "C:\\Users\\bulat\\Downloads\\alias\\AliasGame.Client\\AliasGame.Client.csproj"
+              "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\AliasGame.Client.csproj": {
+                "projectPath": "C:\\Users\\bulat-laptop\\ORIS_AliasGame\\Alias\\AliasGame.Client\\AliasGame.Client.csproj"
               }
             }
           }
@@ -131,7 +135,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

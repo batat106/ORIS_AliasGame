@@ -1,4 +1,5 @@
-﻿using AliasGame.Client.Network;
+﻿using Alias.Models;
+using AliasGame.Client.Network;
 using AliasGame.UI.Models;
 
 namespace AliasGame.UI;
@@ -136,12 +137,28 @@ public partial class MainForm : Form
             Invoke(new Action(UpdateUI));
             return;
         }
+
+        // Если есть победитель, показываем сообщение и отключаем элементы управления
+        if (_currentState.Winner != null)
+        {
+            string message = string.Format("Игра окончена! Победитель: {0} со счетом {1}!", 
+                _currentState.Winner.Nickname, 
+                _currentState.Winner.Score);
+            
+            MessageBox.Show(message, "Конец игры", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            
+            btnCorrect.Enabled = false;
+            btnIncorrect.Enabled = false;
+            btnStart.Enabled = false;
+            return;
+        }
+
         // Показываем слово и кнопки управления только текущему игроку
         bool isCurrentPlayer = _currentState.CurrentPlayer?.Id == _playerId;
 
         lblCurrentWord.Text = isCurrentPlayer 
             ? _currentState.CurrentWord 
-            : $"Объясняет: {_currentState.CurrentPlayer?.Nickname ?? ""}";
+            : string.Format("Объясняет: {0}", _currentState.CurrentPlayer?.Nickname ?? "");
         
         btnCorrect.Enabled = isCurrentPlayer;
         btnIncorrect.Enabled = isCurrentPlayer;
@@ -150,6 +167,6 @@ public partial class MainForm : Form
         lstPlayers.Items.Clear();
 
         foreach (var player in _currentState.Players)
-            lstPlayers.Items.Add($"{player.Nickname}: {player.Score}");
+            lstPlayers.Items.Add(string.Format("{0}: {1}", player.Nickname, player.Score));
     }
 }
